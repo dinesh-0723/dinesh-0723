@@ -25,12 +25,12 @@
 - **Key Features:** Highlight any unique features or functionalities.
 
 ## Blogs & Articles
-- [Title of Article 1](link-to-article) - A brief description of the article.
+- [Medium](https://medium.com/@dineshOffl) - A brief description of the article.
 - [Title of Article 2](link-to-article) - A brief description of the article.
 
 ## Contact
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
+- **Email:** dineshyadav0723@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/dinesh09/)
 - **Twitter:** [@YourTwitterHandle](link-to-twitter)
 
 ## Contributions
