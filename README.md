@@ -7,12 +7,11 @@
 - Passionate about automating processes, improving CI/CD pipelines, and enhancing system reliability.
 
 ## Skills
-- **Cloud Platforms:** AWS, Azure, Google Cloud
+- **Cloud Platforms:** AWS, Azure
 - **Containerization:** Docker, Kubernetes
-- **CI/CD Tools:** Jenkins, GitHub Actions, CircleCI
-- **Scripting Languages:** Python, Bash, PowerShell
+- **CI/CD Tools:** GitHub Actions, Azure DevOps
+- **Scripting Languages:** Python, Bash
 - **Configuration Management:** Ansible, Terraform
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
 
 ## Projects
 ### [Project Name](link-to-project)
