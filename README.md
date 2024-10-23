@@ -3,8 +3,7 @@
 ![Profile Banner](link-to-your-banner-image)
 
 ## About Me
-- **DevOps Engineer** with [X] years of experience in [specific technologies or tools, e.g., AWS, Docker, Kubernetes].
-- Passionate about automating processes, improving CI/CD pipelines, and enhancing system reliability.
+👋 Hi there! I'm [Your Name], a passionate DevOps engineer with a strong background in continuous integration and continuous deployment (CI/CD), cloud computing, and automation. 
 
 ## Skills
 - **Cloud Platforms:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -41,3 +40,8 @@
 ## Fun Facts
 - [A fun fact about you or a hobby]
 - [Another fun fact or hobby]
+
+
+## Certifications
+- ![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft_Certified:_Azure_Fundamentals-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white) - Microsoft - Obtained: June 2023
+- ![Microsoft Certified: Azure Developer Associate](https://img.shields.io/badge/Microsoft_Certified:_Azure_Developer_Associate-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white) - Microsoft - Obtained: [Month, Year]
