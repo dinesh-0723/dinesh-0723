@@ -1,6 +1,6 @@
 # Your Name / Username
 
-![Profile Banner](link-to-your-banner-image)
+![Profile Banner](https://banner2.cleanpng.com/20190220/ehr/kisspng-logo-kubernetes-transparency-font-computer-softwar-1713906561749.webp)
 
 ## About Me
 - **DevOps Engineer** with [X] years of experience in [specific technologies or tools, e.g., AWS, Docker, Kubernetes].
