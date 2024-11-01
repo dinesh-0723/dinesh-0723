@@ -1,5 +1,5 @@
 ## About Me
-👋 Hi there! I'm Dinesh, a passionate DevOps engineer with a strong background in continuous integration and continuous deployment (CI/CD), cloud computing, and automation. 
+👋 Hi there! I'm Dinesh, a passionate DevOps engineer with a strong background in continuous integration and continuous deployment (CI/CD), cloud computing, and automation.
 
 ## Skills
 - **Cloud Platforms:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
