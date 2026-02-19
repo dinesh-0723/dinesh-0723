@@ -47,14 +47,9 @@ I'm a passionate **DevOps Engineer** specializing in **CI/CD**, **Cloud Computin
 ---
 
 ## 📊 GitHub Stats
-<!-- ![dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinesh-0723&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-0723&layout=compact&theme=radical) -->
 ![GitHub followers](https://img.shields.io/github/followers/dinesh-0723?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/dinesh-0723?style=social)
-<!-- ![GitHub repos](https://img.shields.io/github/repos/dinesh-0723?style=social) -->
-![GitHub repos](https://img.shields.io/github/repo-count/dinesh-0723?style=social)
-
-
+![GitHub repos](https://img.shields.io/github/repos/dinesh-0723?style=social)
 
 ---
 
