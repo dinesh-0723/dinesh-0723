@@ -26,6 +26,10 @@ I'm a passionate **DevOps Engineer** specializing in **CI/CD**, **Cloud Computin
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
 
+### DevSecOps & Code Quality
+![Snyk](https://img.shields.io/badge/Snyk-ff7b00?style=for-the-badge&logo=snyk&logoColor=white) 
+![SonarCloud](https://img.shields.io/badge/SonarCloud-4E9BCD?style=for-the-badge&logo=sonarcloud&logoColor=white)
+
 ---
 
 ## 📝 Blogs & Articles
