@@ -40,6 +40,7 @@ I’m a passionate DevOps Engineer with hands-on experience in building scalable
 ## 🏆 Certifications
 - ✅ **Microsoft Certified: Azure Fundamentals** *(June 2023)*
 - ✅ **Microsoft Certified: Azure Developer Associate** *(June 2023)*
+- ✅ **GitHub Copilote** *(Nov 2026)*
 
 ---
 
